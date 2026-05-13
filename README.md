@@ -1,6 +1,6 @@
 <div align="center">
   
- ![Profile Views](https://komarev.com/ghpvc/?username=sayonearaIofp&color=8FF3FF&label=Profile%20views&style=flat-square)
+ ![Profile Views](https://komarev.com/ghpvc/?username=sayonearaIofp&color=A0FFF0&label=Profile%20views&style=flat-square)
 <div align="center">
 <a href="https://ibb.co/KxBH18XP"><img src="https://i.ibb.co/s9crBX2f/IMG-20260514-013434-012.png" alt="IMG-20260514-013434-012" border="0"></a>
 
